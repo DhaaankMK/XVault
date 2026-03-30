@@ -73,12 +73,16 @@ pyinstaller build.spec
 
 ---
 
-## ⚠️ Avisos Importantes
+## ⚠️ AVISO DE RESPONSABILIDADE (DISCLAIMER)
 
-1. **NÃO esqueça sua senha.** Sem ela a pasta é permanentemente irrecuperável.
-2. Execute sempre como **Administrador** para garantir acesso total às APIs do Windows.
-3. Faça backup da pasta **antes** de trancar pela primeira vez, até ter certeza que sabe usar.
-4. O `.exe` gerado pelo PyInstaller contém tudo — Python, bibliotecas e código. É portátil.
+> 🛑 **LEIA COM ATENÇÃO:** O **XVault** é estritamente uma ferramenta de software para estudo e uso pessoal de criptografia e ocultação de diretórios. O uso deste aplicativo é de sua inteira e exclusiva responsabilidade.
+>
+> **NÃO NOS RESPONSABILIZAMOS POR:**
+> * 🔑 **Senhas Esquecidas:** A criptografia utilizada (AES-256) é de nível militar e irreversível sem a chave correta. Se você esquecer a senha que definiu, **NÃO HÁ NENHUMA FORMA** de recuperar seus arquivos. Não existe botão de "esqueci minha senha".
+> * 📁 **Arquivos Perdidos ou Corrompidos:** Falhas no sistema operacional, encerramento forçado do app durante o processo ou exclusão acidental da pasta camuflada podem resultar em perda permanente de dados.
+> * 💻 **Danificações no Sistema:** O uso incorreto de privilégios de Administrador ou modificação manual dos arquivos de configuração do app são por sua conta e risco.
+>
+> O desenvolvedor se isenta de qualquer responsabilidade por danos diretos, indiretos, perdas de dados ou qualquer outro prejuízo decorrente do uso ou da incapacidade de usar esta ferramenta. **Faça sempre backup dos seus arquivos importantes antes de testar o software.**
 
 ---
 
